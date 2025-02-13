@@ -1,6 +1,6 @@
 Task1.1: 
 
-[![App Platorm](Solution/task1.1.png)](https://replit.com/@stolyarchuksofi/java-first-Sofiia17s#Solution/task1.1.png)
+[![App Platorm](https://github.com/ppc-ntu-khpi/java-first-Sofiia17s/blob/main/Solution/task1.1.png?raw=true)
 
 
 Task1.2:
